@@ -16,7 +16,7 @@ Before running the code, make sure you have Python installed on your system. You
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/stock-price-prediction.git
+    git clone https://github.com/shreeramdrao/stock-price-prediction.git
     ```
 
 2. Navigate to the project directory:
