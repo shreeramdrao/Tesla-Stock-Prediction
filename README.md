@@ -16,12 +16,12 @@ Before running the code, make sure you have Python installed on your system. You
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/shreeramdrao/stock-price-prediction.git
+    git clone https://github.com/shreeramdrao/Tesla-Stock-Prediction.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd stock-price-prediction
+    cd Tesla-Stock-Prediction
     ```
 
 3. Install the required Python dependencies:
@@ -31,16 +31,16 @@ Before running the code, make sure you have Python installed on your system. You
 
 ## Usage
 
-1. **Data Preprocessing:** Run the `stock_prediction.ipynb` Jupyter Notebook to preprocess the data, including cleaning, feature engineering, and formatting.
+1. **Data Preprocessing:** Run the `Tesla stock price prediction.ipynb` Jupyter Notebook to preprocess the data, including cleaning, feature engineering, and formatting.
 
 2. **Model Training:** Train machine learning models using the prepared data. The notebook includes code for training a linear regression model.
 
-3. **Visualization:** Visualize historical stock prices, predicted values, and model performance using the `stock_prediction.ipynb` notebook.
+3. **Visualization:** Visualize historical stock prices, predicted values, and model performance using the `Tesla stock price prediction.ipynb` notebook.
 
 ## Files
 
-- `tesla.csv`: Historical stock data for Tesla.
-- `stock_prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and visualization.
+- `tesla_stocks.csv`: Historical stock data for Tesla.
+- `Tesla stock price prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, and visualization.
 - `README.md`: This file.
 
 ## Technologies Used
@@ -56,6 +56,3 @@ Before running the code, make sure you have Python installed on your system. You
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
